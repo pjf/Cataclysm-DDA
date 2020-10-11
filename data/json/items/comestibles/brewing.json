@@ -468,7 +468,6 @@
     "material": [ "veggy" ],
     "volume": "1 L",
     "flags": [ "EDIBLE_FROZEN", "RAW" ],
-    "charges": 4,
     "vitamins": [ [ "calcium", 6 ], [ "iron", 29 ] ],
     "fun": -15,
     "use_action": {
@@ -498,7 +497,6 @@
     "material": [ "veggy" ],
     "volume": "1 L",
     "flags": [ "EDIBLE_FROZEN", "RAW" ],
-    "charges": 4,
     "vitamins": [ [ "calcium", 6 ], [ "iron", 29 ] ],
     "fun": -15
   },
@@ -506,7 +504,7 @@
     "type": "COMESTIBLE",
     "id": "soaking_dandelion",
     "name": { "str_sp": "soaking dandelion" },
-    "weight": "211 g",
+    "weight": "308 g",
     "color": "brown",
     "comestible_type": "FOOD",
     "symbol": ",",
@@ -517,9 +515,8 @@
     "price": 20,
     "price_postapoc": 250,
     "material": [ "veggy" ],
-    "volume": "1 L",
+    "volume": "250 ml",
     "flags": [ "EDIBLE_FROZEN", "RAW" ],
-    "charges": 4,
     "vitamins": [ [ "calcium", 6 ], [ "iron", 29 ] ],
     "fun": -15,
     "use_action": {
@@ -535,7 +532,7 @@
     "type": "COMESTIBLE",
     "id": "soaked_dandelion",
     "name": { "str_sp": "soaked dandelion" },
-    "weight": "1000 g",
+    "weight": "308 g",
     "color": "yellow",
     "spoils_in": "3 days",
     "comestible_type": "FOOD",
@@ -547,9 +544,8 @@
     "price": 20,
     "price_postapoc": 250,
     "material": [ "veggy" ],
-    "volume": "1 L",
+    "volume": "250 ml",
     "flags": [ "EDIBLE_FROZEN", "RAW" ],
-    "charges": 4,
     "vitamins": [ [ "vitA", 33 ], [ "vitC", 23 ], [ "calcium", 11 ], [ "iron", 10 ] ],
     "fun": -4
   }
