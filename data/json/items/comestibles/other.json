@@ -1036,7 +1036,6 @@
   {
     "type": "COMESTIBLE",
     "id": "snail_garden",
-    "category": "other",
     "name": { "str": "snail" },
     "weight": "15 g",
     "color": "brown",
@@ -1048,6 +1047,7 @@
     "price": 0,
     "price_postapoc": 0,
     "volume": "15 ml",
-    "fun": -20
+    "fun": -20,
+    "flags": [ "RAW" ]
   }
 ]
